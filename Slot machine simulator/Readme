@@ -1,1 +1,7 @@
+The Slot Machine Simulator is a Python-based text game that simulates a classic slot machine experience. Players can deposit an amount, choose how many lines to bet on, and spin the slot machine to win based on matching symbols. The game features four different symbols with varying frequencies and payout values, making each spin an exciting gamble. The aim is to win more than you bet and manage your balance wisely.
 
+Features:
+Multiple Bet Lines: Choose to bet on 1-3 lines.
+Symbol Variety: Four distinct symbols (A, B, C, D) with different payout rates.
+Random Slot Spinning: Each column's outcome is randomized, creating a unique experience each time.
+Winnings Calculation: Automatically checks for winning combinations across the selected lines.
