@@ -1,4 +1,5 @@
 Parking Management System
+
 A console-based Parking Management System built with Python, designed to manage and track parking entries for various types of vehicles, including bicycles, bikes, and cars. The application provides a user-friendly menu for vehicle entry, removal, parking space availability, parking charges, and billing.
 
 Features
